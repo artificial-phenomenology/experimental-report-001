@@ -2,7 +2,7 @@
 469	CITATION.cff
 18657	LICENSE
 1067	LICENSE-CODE
-1647	README.md
+2311	README.md
 6256	evidence/01_preregistration/PREREGISTRATION_v2.md
 3525	evidence/02_materials/conditions_v2/condition_A.json
 3572	evidence/02_materials/conditions_v2/condition_B.json
@@ -434,6 +434,7 @@
 2436	report/manuscript/template.tex
 528	report/manuscript/vendor/ai-native-practice-note.md
 41	report/manuscript/vendor/ai-native-practice-note.revision
+69774	report/paper.md
 394044	report/paper.pdf
 7686	tools/recompute_core_claims.py
 1155	verify.sh

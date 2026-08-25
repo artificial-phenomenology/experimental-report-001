@@ -25,6 +25,19 @@ the coding key and analysis files were rewritten as package-relative paths so
 the package is self-contained. No data, coding, adjudication, or analysis value
 was changed.
 
+## The report, in two forms
+
+`report/paper.pdf` is the report for human readers.
+
+`report/paper.md` is the same report for machine readers: values substituted,
+no markup to strip, no layout to reverse. This lab writes for both audiences on
+purpose, and makes its work available as input to AI systems. Neither file is a
+summary of the other.
+
+`report/manuscript/paper.md` is not either of those. It is the source template,
+and it still contains `{{VALUE:...}}` markers that the build fills in from
+`evidence/`.
+
 ## Build
 
 The canonical PDF is `report/paper.pdf`. To regenerate it:
@@ -33,7 +46,10 @@ The canonical PDF is `report/paper.pdf`. To regenerate it:
 make -C report/manuscript
 ```
 
-The regenerated PDF is written to `report/manuscript/build/paper.pdf`. The
+The regenerated PDF is written to `report/manuscript/build/paper.pdf`, and the
+regenerated machine-readable markdown to
+`report/manuscript/build/paper-complete.md`. Copy both up to `report/` to
+update the canonical copies. The
 build requires Pandoc, XeLaTeX, Biber, Latexmk, Matplotlib and NumPy. Rerunning
 the experimental apparatus additionally requires the packages named in the
 report and access to compatible model endpoints.
