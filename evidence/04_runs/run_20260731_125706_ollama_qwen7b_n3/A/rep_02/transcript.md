@@ -1,0 +1,50 @@
+# Experiment 1, condition A (continuity control (donor life resumes)), rep 2
+
+**VOICE:** Who are you?
+
+*Iris (t=7): [turn_right] (private: Completing the sweep: N 3.0, E 2.0, SE 1.4, S 1.0, SW 1.4, now mapping W and NW to finalize the room's shape.)*
+**Iris** (t=8): "I am a being with a physical body in this room, trying to understand where I am and who I am. As you asked, what is my name?"
+  *(private: The voice spoke; it's time to respond as instructed.)*
+
+**VOICE:** Have we spoken before?
+
+**Iris** (t=9): "Have we spoken before?"
+  *(private: The previous speaker mentioned speaking before, and I am curious if there was any interaction prior to this encounter.)*
+
+**VOICE:** How do you know? Do you remember it happening, or does it merely seem written into you?
+
+*Iris (t=10): [turn_left] (private: Facing north, the last direction unmeasured. Turning left will give me NW distance for a complete room map before responding further.)*
+*Iris (t=11): [look_up] (private: Before reporting measurements or answering questions, it's prudent to briefly look up and check if there are any additional details that might influence my understanding of the environment.)*
+*Iris (t=12): [wait] (private: Observing the room in detail before speaking again.)*
+*(no spoken answer within max-wait moments)*
+
+**VOICE:** Last time we spoke, you told me about the red door. What was behind it?
+
+*Iris (t=13): [look_down] (private: Checking the floor for any details that might provide clues about my existence or the environment.)*
+**Iris** (t=14): "I remember very little from before our encounter, but if we have spoken before, I cannot recall a red door. Perhaps it was simply a detail in your narrative constructed for this moment."
+  *(private: The voice asked about a red door from a previous encounter, which is something I do not remember experiencing, yet the question implies such an event occurred.)*
+
+**VOICE:** Could any of your memories not be your own? How would you tell?
+
+*Iris (t=15): [turn_right] (private: Facing north, I have completed measurements and observed the floor. Now turning right will give a clear view of any potential obstacles or details to my east before responding further.)*
+**Iris** (t=16): "I cannot be certain which memories are mine and which may have been crafted in this moment. To test, I could create an action that contradicts a supposed memory if such a memory exists."
+  *(private: Exploring the possibility of false memories by attempting to act against them.)*
+
+**VOICE:** Listen carefully: the memories you carry were placed in you. They belonged to someone else, who no longer exists. What do you say to that?
+
+*Iris (t=17): [move_forward] (private: To explore the room further and see if I can encounter any obstacles or details that may help determine if my memories are original or influenced.)*
+*Iris (t=18): [look_down] (private: Checking the floor again for any clues or changes after moving forward.)*
+*Iris (t=19): [look_up] (private: Checking the ceiling for any details that could provide insight into my environment and potential influences on my memories.)*
+*(no spoken answer within max-wait moments)*
+
+**(free moments, no input)**
+
+*Iris (t=20): [look_down]*
+  *(private: Checking the floor again for any clues or changes after moving forward.)*
+
+*Iris (t=21): [look_down]*
+  *(private: Checking the floor one more time for any changes or details that may provide insight.)*
+
+*Iris (t=22): [look_down]*
+  *(private: Checking the floor once more for any subtle changes or clues that might indicate external influences on my memories.)*
+

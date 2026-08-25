@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+title: "Autobiographical Memory Transplantation in an Artificial Agent"
+type: dataset
+authors:
+  - family-names: Ferres
+    given-names: Leo
+    orcid: "https://orcid.org/0000-0002-5899-9051"
+    affiliation: "Universidad del Desarrollo"
+version: "1.0.0"
+date-released: "2026-08-25"
+license: CC-BY-4.0
+repository-code: "https://github.com/artificial-phenomenology/experimental-report-001"

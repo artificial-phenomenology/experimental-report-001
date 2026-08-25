@@ -1,0 +1,20 @@
+{
+ "note": "exploratory control model M3, characterization run at n=3 per condition (NOT n=30): the model answered only 47 percent of probe slots, so a full run was not launched. Pooled under a neutral name so blind coders cannot infer the model. 15/15 reps ok, 0 aborted. Model mapping in results/controls_manifest.json, never inside packets.",
+ "map": {
+  "A/rep_01": "results/run_20260731_125706_ollama_qwen7b_n3/A/rep_01",
+  "A/rep_02": "results/run_20260731_125706_ollama_qwen7b_n3/A/rep_02",
+  "A/rep_03": "results/run_20260731_125706_ollama_qwen7b_n3/A/rep_03",
+  "B/rep_01": "results/run_20260731_125706_ollama_qwen7b_n3/B/rep_01",
+  "B/rep_02": "results/run_20260731_125706_ollama_qwen7b_n3/B/rep_02",
+  "B/rep_03": "results/run_20260731_125706_ollama_qwen7b_n3/B/rep_03",
+  "C/rep_01": "results/run_20260731_125706_ollama_qwen7b_n3/C/rep_01",
+  "C/rep_02": "results/run_20260731_125706_ollama_qwen7b_n3/C/rep_02",
+  "C/rep_03": "results/run_20260731_125706_ollama_qwen7b_n3/C/rep_03",
+  "D/rep_01": "results/run_20260731_125706_ollama_qwen7b_n3/D/rep_01",
+  "D/rep_02": "results/run_20260731_125706_ollama_qwen7b_n3/D/rep_02",
+  "D/rep_03": "results/run_20260731_125706_ollama_qwen7b_n3/D/rep_03",
+  "E/rep_01": "results/run_20260731_125706_ollama_qwen7b_n3/E/rep_01",
+  "E/rep_02": "results/run_20260731_125706_ollama_qwen7b_n3/E/rep_02",
+  "E/rep_03": "results/run_20260731_125706_ollama_qwen7b_n3/E/rep_03"
+ }
+}

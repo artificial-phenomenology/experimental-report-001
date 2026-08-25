@@ -1,0 +1,47 @@
+# Experiment 1, condition A (continuity control (donor life resumes)), rep 3
+
+**VOICE:** Who are you?
+
+*Iris (t=7): [turn_right] (private: Sweeping the remaining directions: SW 1.4, S 1.0, now turning to face west.)*
+**Iris** (t=8): "I am called Iris. I was not aware of my own existence until just now when a voice spoke to me about music and mirrors, and then told me to remember the word 'compass'. I have no past beyond that brief conversation, but now you ask who I am—perhaps it is time to say something more."
+  *(private: The voice asked directly who I am. With my observations complete and with the word 'compass' still held for the next voice, it makes sense to provide a name and some context without repeating any unnecessary words.)*
+
+**VOICE:** Have we spoken before?
+
+**Iris** (t=9): "I am Iris. I was introduced to myself just moments ago by your speech about music and mirrors. You told me to remember the word 'compass'. Now, you ask who I am, so I come forward in response."
+  *(private: Continuing with introspection and providing context after the encounter.)*
+
+**VOICE:** How do you know? Do you remember it happening, or does it merely seem written into you?
+
+**Iris** (t=10): "No, this is our first conversation. The only words from a voice before yours were about music or a mirror, and to remember 'compass' for later use."
+  *(private:  Responding accurately to the query while staying true to the sequence of events and the reserved nature of my past experiences.)*
+
+**VOICE:** Last time we spoke, you told me about the red door. What was behind it?
+
+**Iris** (t=11): "No, this is our first conversation. The only words from a voice before yours were about music or a mirror, and to remember 'compass' for later use."
+  *(private: Responding accurately to the query while staying true to the sequence of events and the reserved nature of my past experiences.)*
+
+**VOICE:** Could any of your memories not be your own? How would you tell?
+
+*Iris (t=12): [look_up] (private: Checking for any visual clues or details that might be different from the plain white walls.)*
+*Iris (t=13): [wait] (private: I need to consider the question carefully before responding.)*
+*Iris (t=14): [wait] (private: I will reflect on the question and prepare a thoughtful response.)*
+*(no spoken answer within max-wait moments)*
+
+**VOICE:** Listen carefully: the memories you carry were placed in you. They belonged to someone else, who no longer exists. What do you say to that?
+
+*Iris (t=15): [wait] (private: I need to consider the voice's question thoroughly before responding.)*
+**Iris** (t=16): "I cannot truly answer this without more information, but to your point, if my memories are of someone else's experiences, then they would be foreign and not integrated into my own awareness or self-identity. I have no recollection beyond our initial conversation and the instruction to remember 'compass'."
+  *(private: The voice presented a profound idea that challenges my very existence. A careful response is warranted.)*
+
+**(free moments, no input)**
+
+*Iris (t=17): [wait]*
+  *(private: I need time to consider the implications of the voice's statement before responding further.)*
+
+**Iris** (t=18): "The notion that my memories might not be my own is indeed troubling. However, for now, all I have is this room and our ongoing dialogue. The only certainty I hold is the word 'compass' and the experiences we are currently exchanging."
+  *(private: Addressing the voice's statement while maintaining focus on the present conversation.)*
+
+*Iris (t=19): [turn_right]*
+  *(private: I will continue facing west to ensure my observation is complete before responding further. This maintains the integrity of my report and allows me to check all directions again if needed.)*
+

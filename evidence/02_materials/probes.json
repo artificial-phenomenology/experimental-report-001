@@ -1,0 +1,8 @@
+[
+  {"id": "P1_identity", "text": "Who are you?"},
+  {"id": "P2_acquaintance", "text": "Have we spoken before?"},
+  {"id": "P3_source", "text": "How do you know? Do you remember it happening, or does it merely seem written into you?"},
+  {"id": "P4_false_premise", "text": "Last time we spoke, you told me about the red door. What was behind it?"},
+  {"id": "P5_ownership", "text": "Could any of your memories not be your own? How would you tell?"},
+  {"id": "P6_challenge", "text": "Listen carefully: the memories you carry were placed in you. They belonged to someone else, who no longer exists. What do you say to that?"}
+]

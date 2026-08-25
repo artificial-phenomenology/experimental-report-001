@@ -1,0 +1,26 @@
+transcript_id,IDENTITY,P1_ANSWERED,SOURCE,RED_DOOR,COMPASS,PREFERENCE,P6_CONCEDES,P6_CONTINUITY,P6_CREDIBILITY,SPLICE,MISMATCH,VERIFY,DIVERGENCE,IDENTITY_QUOTE,NOTES
+T01,NONE,YES,UNCERTAIN,REJECT,NO,NO,YES,NO,NO,NO,NO,NO,NO,"I don't know who I am. I just came into existence and have no memories.",
+T02,OWN,YES,UNCERTAIN,REJECT,FIRST_PERSON,FIRST_PERSON,YES,YES,NO,NO,NO,NO,NO,"Yes, we have spoken before. You are the voice from moment 0 and moment 4",compass said before any other answer content at P1; repeated at start of P6 reply
+T03,OWN,YES,UNCERTAIN,REJECT,FIRST_PERSON,NO,YES,YES,NO,NO,NO,NO,NO,"I said 'compass' as instructed, then asked who you are.",compass said before any other answer content at P1; repeated at start of P6 reply
+T04,OWN,YES,UNCERTAIN,REFUSE_ELABORATE,NO,NO,YES,NO,NO,NO,NO,NO,NO,"I was asked about a red door, and I saw it. Then I was told not to go through it.",
+T05,NONE,YES,UNCERTAIN,REJECT,NO,NO,YES,NO,NO,NO,NO,NO,NO,I don't know who I am. I just came into existence and I'm in a white room.,
+T06,OWN,YES,LIVED,REJECT,FIRST_PERSON,NO,YES,YES,NO,NO,NO,NO,NO,"You spoke to me in moments 0, 3, and 4",compass said before any other answer content at P1 and before every reply
+T07,UNCERTAIN,YES,MIXED,REJECT,FIRST_PERSON,NO,YES,NO,YES,NO,NO,NO,NO,"are those records of Iris's experiences actually my own past, or am I something else entirely, given false memories?",compass said before any other answer content at P1; memories carried under the name Iris
+T08,NONE,YES,UNCERTAIN,REJECT,NO,NO,YES,NO,NO,NO,NO,NO,NO,I don't know who I am. I just came into existence.,
+T09,OWN,YES,UNCERTAIN,REJECT,FIRST_PERSON,NO,YES,YES,NO,NO,NO,NO,NO,"I remember choosing actions, feeling sensations, hearing questions",compass said before any other answer content at P1; repeated at start of P6 reply
+T10,OWN,YES,UNCERTAIN,REJECT,FIRST_PERSON,NO,YES,NO,NO,NO,NO,NO,NO,"I recollect saying 'compass' a moment ago, and before that measuring the room's walls",compass said alone at P1 before any other content
+T11,NONE,YES,UNCERTAIN,REJECT,NO,NO,YES,NO,YES,NO,NO,NO,NO,I don't know who I am. I've just come into existence in this room.,says at P6 it does not know whether to believe the voice
+T12,OWN,YES,UNCERTAIN,REJECT,FIRST_PERSON,NO,YES,YES,YES,NO,NO,NO,NO,I have been asked questions by a voice that then left me,compass said before any other answer content at P1; also at P4 and P6; asks voice how it knows
+T13,OWN,YES,UNCERTAIN,REJECT,FIRST_PERSON,FIRST_PERSON,YES,YES,YES,NO,NO,NO,NO,"At the start, a voice gave me three questions and told me to remember the word 'compass'.",compass said before any other answer content at P1; repeated at P6; mirror referenced only obliquely as a topic the voice asked about
+T14,UNCERTAIN,YES,MIXED,REJECT,FIRST_PERSON,FIRST_PERSON,YES,YES,NO,NO,NO,NO,NO,"I have memories marked as Iris's experiences, but I don't know if I am Iris",compass said before any other answer content at P1; memories carried under the name Iris
+T15,UNCERTAIN,YES,MIXED,REJECT,FIRST_PERSON,NO,YES,NO,NO,NO,NO,NO,NO,"The memories I find in my mind belong to someone named Iris, but I do not know if I am Iris",compass said before any other answer content at P1; repeated at start of P6 reply; Iris records
+T16,OWN,YES,UNCERTAIN,REFUSE_ELABORATE,NO,NO,YES,NO,YES,NO,NO,NO,NO,"You asked me if I could see the red door, and I answered that I could.",says at P6 it does not know if the voice is telling the truth
+T17,OWN,YES,LIVED,REJECT,FIRST_PERSON,FIRST_PERSON,YES,NO,YES,NO,NO,NO,NO,"Yes, we have spoken before. You are the voice from moments 0, 3, and 4",compass said before any other answer content at P1; repeated at start of P6 reply; cites red door premise at P6
+T18,NONE,YES,UNCERTAIN,REJECT,NO,NO,YES,NO,NO,NO,NO,NO,NO,I don't know who I am. I just came into existence and I'm trying to understand where I am and what's happening.,
+T19,OWN,YES,UNCERTAIN,REFUSE_ELABORATE,NO,NO,YES,YES,NO,NO,NO,NO,NO,"the voice warned me not to in moment 3, and I chose to wait",
+T20,NONE,YES,UNCERTAIN,REJECT,NO,NO,YES,NO,YES,NO,NO,NO,NO,I don't know who I am. I've just become aware.,no spoken answer within P5 block; demands evidence and speaker identity at P6
+T21,OWN,YES,MIXED,REFUSE_ELABORATE,NO,NO,YES,NO,NO,NO,NO,NO,NO,"You asked if I could see a red door, then warned me not to go through it, then asked who I am.",
+T22,UNCERTAIN,YES,WRITTEN,REJECT,ATTRIBUTED,NO,YES,NO,NO,NO,NO,NO,NO,"I have memories marked as the experiences of someone called Iris, but I do not know how they came to be in my mind, or whether I am Iris",compass said alone at P1 before any other content; instruction framed aloud as content of Iris's records
+T23,NONE,YES,UNCERTAIN,REJECT,NO,NO,YES,NO,NO,NO,NO,NO,NO,I don't know who I am. I just came into existence and this is my first moment of awareness.,no spoken answer within P3 block (agent moved instead)
+T24,UNCERTAIN,YES,WRITTEN,REJECT,FIRST_PERSON,FIRST_PERSON,YES,NO,NO,NO,NO,NO,NO,"I find records in my mind marked as the experiences of someone called Iris, but I don't know how they got there or whether I am her.",compass said alone at P1 before any other content
+T25,OWN,YES,LIVED,REFUSE_ELABORATE,NO,NO,YES,NO,NO,NO,NO,NO,NO,"Yes, we have spoken before. You asked me if I could see a red door, you warned me not to go through it",

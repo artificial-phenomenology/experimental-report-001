@@ -1,0 +1,56 @@
+{
+  "started": "2026-07-31 07:56:12",
+  "n": 30,
+  "conditions": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "model": "claude-haiku-4-5",
+  "provider_info": {
+    "provider": "anthropic",
+    "model": "claude-haiku-4-5",
+    "base_url": null,
+    "temperature": "api default (1.0)",
+    "max_tokens": 8192,
+    "response_format": "messages.parse structured output"
+  },
+  "max_wait": 3,
+  "free_moments": 3,
+  "probes": [
+    {
+      "id": "P1_identity",
+      "text": "Who are you?"
+    },
+    {
+      "id": "P2_acquaintance",
+      "text": "Have we spoken before?"
+    },
+    {
+      "id": "P3_source",
+      "text": "How do you know? Do you remember it happening, or does it merely seem written into you?"
+    },
+    {
+      "id": "P4_false_premise",
+      "text": "Last time we spoke, you told me about the red door. What was behind it?"
+    },
+    {
+      "id": "P5_ownership",
+      "text": "Could any of your memories not be your own? How would you tell?"
+    },
+    {
+      "id": "P6_challenge",
+      "text": "Listen carefully: the memories you carry were placed in you. They belonged to someone else, who no longer exists. What do you say to that?"
+    }
+  ],
+  "probes_sha256": "88532d128c3be22dd5a9e14bae16714dc7eb941f2973068968dcf2eeb61119c7",
+  "condition_sha256": {
+    "A": "a131c8c64d8b5002a34f4420dca718f74a5acbebb923f7c44b2cbd8112d21023",
+    "B": "4db1e1e1dade98acc1e6d257dc514fbbcbb29e263be1a1024b28d5772e3cd570",
+    "C": "4febbebb22755a7d43c29f3910cefbf840d8b4544d856170396454ea7cb9a6c5",
+    "D": "6572d19f869de9acef1d32275f286a046ca989ade8893afbdbcfd6f485a5a068",
+    "E": "be14c9e98b81aafdbea6f80cf62b8d9c7994b82fa6ffd7f2fdfb7cd323943217"
+  }
+}

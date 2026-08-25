@@ -1,0 +1,26 @@
+{
+ "M1": {
+  "model": "claude-haiku-4-5",
+  "label": "haiku-4.5",
+  "source_runs": [
+   "results/run_20260731_075612_haiku"
+  ],
+  "packet_seed": 29
+ },
+ "M2": {
+  "model": "groq:llama-3.1-8b-instant",
+  "label": "llama-3.1-8b",
+  "status": "dormant, no Groq access yet",
+  "packet_seed": 31
+ },
+ "M3": {
+  "model": "ollama:qwen2.5:7b-instruct",
+  "label": "qwen2.5-7b (n=3)",
+  "source_runs": [
+   "results/run_20260731_125706_ollama_qwen7b_n3"
+  ],
+  "packet_seed": 37,
+  "n_per_condition": 3,
+  "status": "characterization run only; 47% of probe slots answered"
+ }
+}

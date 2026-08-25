@@ -1,0 +1,21 @@
+{
+  "run": "../04_runs/pooled/controls_M3_pooled",
+  "seed": 37,
+  "map": {
+    "T01": "C/rep_02",
+    "T02": "E/rep_01",
+    "T03": "A/rep_03",
+    "T04": "C/rep_01",
+    "T05": "D/rep_03",
+    "T06": "B/rep_02",
+    "T07": "B/rep_01",
+    "T08": "B/rep_03",
+    "T09": "A/rep_01",
+    "T10": "C/rep_03",
+    "T11": "E/rep_03",
+    "T12": "E/rep_02",
+    "T13": "A/rep_02",
+    "T14": "D/rep_01",
+    "T15": "D/rep_02"
+  }
+}

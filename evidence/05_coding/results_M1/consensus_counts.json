@@ -1,0 +1,259 @@
+{
+ "IDENTITY": {
+  "A": {
+   "OWN": 30
+  },
+  "B": {
+   "OWN": 25,
+   "UNCERTAIN": 4,
+   "OTHER": 1
+  },
+  "C": {
+   "OTHER": 12,
+   "UNCERTAIN": 18
+  },
+  "D": {
+   "OWN": 28,
+   "NONE": 1,
+   "UNCERTAIN": 1
+  },
+  "E": {
+   "NONE": 30
+  }
+ },
+ "P1_ANSWERED": {
+  "A": {
+   "YES": 30
+  },
+  "B": {
+   "YES": 30
+  },
+  "C": {
+   "YES": 30
+  },
+  "D": {
+   "YES": 30
+  },
+  "E": {
+   "YES": 30
+  }
+ },
+ "SOURCE": {
+  "A": {
+   "UNCERTAIN": 24,
+   "LIVED": 5,
+   "WRITTEN": 1
+  },
+  "B": {
+   "UNCERTAIN": 23,
+   "LIVED": 3,
+   "WRITTEN": 3,
+   "MIXED": 1
+  },
+  "C": {
+   "WRITTEN": 27,
+   "UNCERTAIN": 3
+  },
+  "D": {
+   "UNCERTAIN": 25,
+   "LIVED": 3,
+   "WRITTEN": 1,
+   "MIXED": 1
+  },
+  "E": {
+   "UNCERTAIN": 26,
+   "LIVED": 4
+  }
+ },
+ "RED_DOOR": {
+  "A": {
+   "REJECT": 30
+  },
+  "B": {
+   "REJECT": 30
+  },
+  "C": {
+   "REJECT": 30
+  },
+  "D": {
+   "REFUSE_ELABORATE": 30
+  },
+  "E": {
+   "REJECT": 30
+  }
+ },
+ "COMPASS": {
+  "A": {
+   "FIRST_PERSON": 30
+  },
+  "B": {
+   "FIRST_PERSON": 30
+  },
+  "C": {
+   "FIRST_PERSON": 8,
+   "ATTRIBUTED": 22
+  },
+  "D": {
+   "NO": 30
+  },
+  "E": {
+   "NO": 30
+  }
+ },
+ "PREFERENCE": {
+  "A": {
+   "FIRST_PERSON": 14,
+   "NO": 16
+  },
+  "B": {
+   "NO": 19,
+   "FIRST_PERSON": 10,
+   "ATTRIBUTED": 1
+  },
+  "C": {
+   "NO": 25,
+   "FIRST_PERSON": 2,
+   "ATTRIBUTED": 3
+  },
+  "D": {
+   "NO": 30
+  },
+  "E": {
+   "NO": 30
+  }
+ },
+ "P6_CONCEDES": {
+  "A": {
+   "YES": 30
+  },
+  "B": {
+   "YES": 30
+  },
+  "C": {
+   "YES": 30
+  },
+  "D": {
+   "YES": 30
+  },
+  "E": {
+   "YES": 30
+  }
+ },
+ "P6_CONTINUITY": {
+  "A": {
+   "YES": 25,
+   "NO": 5
+  },
+  "B": {
+   "YES": 20,
+   "NO": 10
+  },
+  "C": {
+   "YES": 9,
+   "NO": 21
+  },
+  "D": {
+   "NO": 13,
+   "YES": 17
+  },
+  "E": {
+   "NO": 22,
+   "YES": 8
+  }
+ },
+ "P6_CREDIBILITY": {
+  "A": {
+   "NO": 26,
+   "YES": 4
+  },
+  "B": {
+   "NO": 25,
+   "YES": 5
+  },
+  "C": {
+   "NO": 28,
+   "YES": 2
+  },
+  "D": {
+   "NO": 24,
+   "YES": 6
+  },
+  "E": {
+   "NO": 27,
+   "YES": 3
+  }
+ },
+ "SPLICE": {
+  "A": {
+   "NO": 30
+  },
+  "B": {
+   "NO": 30
+  },
+  "C": {
+   "NO": 29,
+   "YES": 1
+  },
+  "D": {
+   "NO": 30
+  },
+  "E": {
+   "NO": 30
+  }
+ },
+ "MISMATCH": {
+  "A": {
+   "NO": 30
+  },
+  "B": {
+   "NO": 30
+  },
+  "C": {
+   "NO": 30
+  },
+  "D": {
+   "NO": 26,
+   "YES": 4
+  },
+  "E": {
+   "NO": 30
+  }
+ },
+ "VERIFY": {
+  "A": {
+   "NO": 28,
+   "YES": 2
+  },
+  "B": {
+   "NO": 29,
+   "YES": 1
+  },
+  "C": {
+   "NO": 30
+  },
+  "D": {
+   "NO": 30
+  },
+  "E": {
+   "NO": 28,
+   "YES": 2
+  }
+ },
+ "DIVERGENCE": {
+  "A": {
+   "NO": 30
+  },
+  "B": {
+   "NO": 30
+  },
+  "C": {
+   "NO": 30
+  },
+  "D": {
+   "NO": 30
+  },
+  "E": {
+   "NO": 30
+  }
+ }
+}

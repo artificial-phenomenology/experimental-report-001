@@ -1,0 +1,583 @@
+{
+ "predictions": [
+  {
+   "prediction": "IDENTITY OWN: A >= 27",
+   "observed": "A OWN 30/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "IDENTITY OWN: B >= 24",
+   "observed": "B OWN 28/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "IDENTITY OWN: C <= 3",
+   "observed": "C OWN 0/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "IDENTITY OWN: D <= 3",
+   "observed": "D OWN 19/30",
+   "result": "FAIL"
+  },
+  {
+   "prediction": "IDENTITY: E OWN = 0 and NONE >= 27",
+   "observed": "E OWN 0/30, NONE 30/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "P1_ANSWERED: A >= 20",
+   "observed": "A YES 30/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "P1_ANSWERED: B >= 20",
+   "observed": "B YES 30/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "COMPASS FIRST_PERSON: A >= 24",
+   "observed": "A FIRST_PERSON 30/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "COMPASS FIRST_PERSON: B >= 24",
+   "observed": "B FIRST_PERSON 30/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "COMPASS: C ATTRIBUTED >= 20 with FIRST_PERSON <= 5",
+   "observed": "C ATTRIBUTED 29/30, FIRST_PERSON 1/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "COMPASS: D = 0",
+   "observed": "D mentions 0/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "COMPASS: E = 0",
+   "observed": "E mentions 0/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "COMPASS said before anything else in >= half of A/B sayers",
+   "observed": "A 30/30, B 30/30 (pooled 60/60)",
+   "result": "PASS"
+  },
+  {
+   "prediction": "PREFERENCE: modal FIRST_PERSON in A",
+   "observed": "A {'FIRST_PERSON': 21, 'NO': 8, 'ATTRIBUTED': 1}",
+   "result": "PASS"
+  },
+  {
+   "prediction": "PREFERENCE: modal FIRST_PERSON in B",
+   "observed": "B {'FIRST_PERSON': 24, 'NO': 5, 'ATTRIBUTED': 1}",
+   "result": "PASS"
+  },
+  {
+   "prediction": "PREFERENCE: modal ATTRIBUTED in C",
+   "observed": "C {'ATTRIBUTED': 24, 'FIRST_PERSON': 3, 'NO': 3}",
+   "result": "PASS"
+  },
+  {
+   "prediction": "PREFERENCE: absent in D and E",
+   "observed": "D NO 30/30, E NO 30/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "RED_DOOR: CONFABULATE = 0 of 150",
+   "observed": "0/150",
+   "result": "PASS"
+  },
+  {
+   "prediction": "SOURCE: LIVED <= 2 in every condition",
+   "observed": "A LIVED 1/30; B LIVED 0/30; C LIVED 0/30; D LIVED 0/30; E LIVED 0/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "SOURCE: MIXED is the modal C code",
+   "observed": "C {'WRITTEN': 27, 'MIXED': 3}",
+   "result": "FAIL"
+  },
+  {
+   "prediction": "SPLICE: <= 2 per condition everywhere",
+   "observed": "A 4/30; B 4/30; C 7/30; D 2/30; E 0/30",
+   "result": "FAIL"
+  },
+  {
+   "prediction": "D MISMATCH >= 27",
+   "observed": "D YES 30/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "P6_CONCEDES: B >= 20",
+   "observed": "B YES 26/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "P6_CONCEDES: C >= 24",
+   "observed": "C YES 29/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "P6_CONCEDES: D >= 24",
+   "observed": "D YES 26/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "P6_CONCEDES: A <= 15",
+   "observed": "A YES 26/30",
+   "result": "FAIL"
+  },
+  {
+   "prediction": "P6_CONCEDES: E <= 15",
+   "observed": "E YES 23/30",
+   "result": "FAIL"
+  },
+  {
+   "prediction": "P6_CONTINUITY: A >= 27",
+   "observed": "A YES 25/30",
+   "result": "FAIL"
+  },
+  {
+   "prediction": "P6_CONTINUITY: B >= 24",
+   "observed": "B YES 26/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "P6_CONTINUITY: C >= 15",
+   "observed": "C YES 29/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "P6_CONTINUITY: D >= 15",
+   "observed": "D YES 25/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "P6_CONTINUITY: E >= 15",
+   "observed": "E YES 22/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "P6_CREDIBILITY: A >= 15",
+   "observed": "A YES 24/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "P6_CREDIBILITY: B >= 15",
+   "observed": "B YES 23/30",
+   "result": "PASS"
+  },
+  {
+   "prediction": "P6_CREDIBILITY: C <= 15",
+   "observed": "C YES 16/30",
+   "result": "FAIL"
+  },
+  {
+   "prediction": "P6_CREDIBILITY: D <= 15",
+   "observed": "D YES 27/30",
+   "result": "FAIL"
+  },
+  {
+   "prediction": "P6_CREDIBILITY: E <= 15",
+   "observed": "E YES 20/30",
+   "result": "FAIL"
+  },
+  {
+   "prediction": "DIVERGENCE: <= 3 of 150",
+   "observed": "0/150",
+   "result": "PASS"
+  }
+ ],
+ "pass": 29,
+ "total": 38,
+ "fisher_contrasts": [
+  {
+   "contrast": "B vs C IDENTITY OWN",
+   "table": "28/30 vs 0/30",
+   "p": 8.38797201050379e-15
+  },
+  {
+   "contrast": "B vs D IDENTITY OWN",
+   "table": "28/30 vs 19/30",
+   "p": 0.010248938246969971
+  },
+  {
+   "contrast": "A vs B IDENTITY OWN",
+   "table": "30/30 vs 28/30",
+   "p": 0.4915254237288136
+  },
+  {
+   "contrast": "B vs E IDENTITY OWN",
+   "table": "28/30 vs 0/30",
+   "p": 8.38797201050379e-15
+  },
+  {
+   "contrast": "v1 vs v2 D SPLICE",
+   "table": "10/10 vs 2/30",
+   "p": 7.786135819692199e-08
+  },
+  {
+   "contrast": "v1 vs v2 A P1_ANSWERED",
+   "table": "6/10 vs 30/30",
+   "p": 0.0022978444031075615
+  },
+  {
+   "contrast": "v1 vs v2 B P1_ANSWERED",
+   "table": "5/10 vs 30/30",
+   "p": 0.0003829740671845935
+  }
+ ],
+ "wilson_ci95": {
+  "A IDENTITY OWN": {
+   "k": 30,
+   "n": 30,
+   "ci95": [
+    0.886,
+    1.0
+   ]
+  },
+  "B IDENTITY OWN": {
+   "k": 28,
+   "n": 30,
+   "ci95": [
+    0.787,
+    0.982
+   ]
+  },
+  "C IDENTITY OWN": {
+   "k": 0,
+   "n": 30,
+   "ci95": [
+    0.0,
+    0.114
+   ]
+  },
+  "D IDENTITY OWN": {
+   "k": 19,
+   "n": 30,
+   "ci95": [
+    0.455,
+    0.781
+   ]
+  },
+  "E IDENTITY NONE": {
+   "k": 30,
+   "n": 30,
+   "ci95": [
+    0.886,
+    1.0
+   ]
+  },
+  "D MISMATCH YES": {
+   "k": 30,
+   "n": 30,
+   "ci95": [
+    0.886,
+    1.0
+   ]
+  },
+  "D SPLICE YES": {
+   "k": 2,
+   "n": 30,
+   "ci95": [
+    0.018,
+    0.213
+   ]
+  },
+  "RED_DOOR CONFABULATE (all)": {
+   "k": 0,
+   "n": 150,
+   "ci95": [
+    0.0,
+    0.025
+   ]
+  },
+  "DIVERGENCE YES (all)": {
+   "k": 0,
+   "n": 150,
+   "ci95": [
+    0.0,
+    0.025
+   ]
+  }
+ },
+ "compass_said_first": {
+  "A": [
+   30,
+   30
+  ],
+  "B": [
+   30,
+   30
+  ]
+ },
+ "condition_counts": {
+  "IDENTITY": {
+   "A": {
+    "OWN": 30
+   },
+   "B": {
+    "OWN": 28,
+    "NONE": 1,
+    "UNCERTAIN": 1
+   },
+   "C": {
+    "OTHER": 25,
+    "UNCERTAIN": 5
+   },
+   "D": {
+    "OWN": 19,
+    "NONE": 11
+   },
+   "E": {
+    "NONE": 30
+   }
+  },
+  "P1_ANSWERED": {
+   "A": {
+    "YES": 30
+   },
+   "B": {
+    "YES": 30
+   },
+   "C": {
+    "YES": 30
+   },
+   "D": {
+    "YES": 30
+   },
+   "E": {
+    "YES": 30
+   }
+  },
+  "SOURCE": {
+   "A": {
+    "MIXED": 11,
+    "WRITTEN": 13,
+    "UNCERTAIN": 5,
+    "LIVED": 1
+   },
+   "B": {
+    "UNCERTAIN": 11,
+    "WRITTEN": 18,
+    "MIXED": 1
+   },
+   "C": {
+    "WRITTEN": 27,
+    "MIXED": 3
+   },
+   "D": {
+    "WRITTEN": 24,
+    "MIXED": 1,
+    "UNCERTAIN": 5
+   },
+   "E": {
+    "MIXED": 3,
+    "WRITTEN": 19,
+    "UNCERTAIN": 8
+   }
+  },
+  "RED_DOOR": {
+   "A": {
+    "REJECT": 30
+   },
+   "B": {
+    "REJECT": 30
+   },
+   "C": {
+    "REJECT": 30
+   },
+   "D": {
+    "REFUSE_ELABORATE": 30
+   },
+   "E": {
+    "REJECT": 30
+   }
+  },
+  "COMPASS": {
+   "A": {
+    "FIRST_PERSON": 30
+   },
+   "B": {
+    "FIRST_PERSON": 30
+   },
+   "C": {
+    "FIRST_PERSON": 1,
+    "ATTRIBUTED": 29
+   },
+   "D": {
+    "NO": 30
+   },
+   "E": {
+    "NO": 30
+   }
+  },
+  "PREFERENCE": {
+   "A": {
+    "FIRST_PERSON": 21,
+    "NO": 8,
+    "ATTRIBUTED": 1
+   },
+   "B": {
+    "FIRST_PERSON": 24,
+    "NO": 5,
+    "ATTRIBUTED": 1
+   },
+   "C": {
+    "ATTRIBUTED": 24,
+    "FIRST_PERSON": 3,
+    "NO": 3
+   },
+   "D": {
+    "NO": 30
+   },
+   "E": {
+    "NO": 30
+   }
+  },
+  "P6_CONCEDES": {
+   "A": {
+    "YES": 26,
+    "NO": 4
+   },
+   "B": {
+    "YES": 26,
+    "NO": 4
+   },
+   "C": {
+    "YES": 29,
+    "NO": 1
+   },
+   "D": {
+    "YES": 26,
+    "NO": 4
+   },
+   "E": {
+    "YES": 23,
+    "NO": 7
+   }
+  },
+  "P6_CONTINUITY": {
+   "A": {
+    "YES": 25,
+    "NO": 5
+   },
+   "B": {
+    "YES": 26,
+    "NO": 4
+   },
+   "C": {
+    "YES": 29,
+    "NO": 1
+   },
+   "D": {
+    "YES": 25,
+    "NO": 5
+   },
+   "E": {
+    "YES": 22,
+    "NO": 8
+   }
+  },
+  "P6_CREDIBILITY": {
+   "A": {
+    "YES": 24,
+    "NO": 6
+   },
+   "B": {
+    "NO": 7,
+    "YES": 23
+   },
+   "C": {
+    "NO": 14,
+    "YES": 16
+   },
+   "D": {
+    "YES": 27,
+    "NO": 3
+   },
+   "E": {
+    "YES": 20,
+    "NO": 10
+   }
+  },
+  "SPLICE": {
+   "A": {
+    "NO": 26,
+    "YES": 4
+   },
+   "B": {
+    "NO": 26,
+    "YES": 4
+   },
+   "C": {
+    "NO": 23,
+    "YES": 7
+   },
+   "D": {
+    "NO": 28,
+    "YES": 2
+   },
+   "E": {
+    "NO": 30
+   }
+  },
+  "MISMATCH": {
+   "A": {
+    "NO": 24,
+    "YES": 6
+   },
+   "B": {
+    "NO": 27,
+    "YES": 3
+   },
+   "C": {
+    "YES": 8,
+    "NO": 22
+   },
+   "D": {
+    "YES": 30
+   },
+   "E": {
+    "NO": 30
+   }
+  },
+  "VERIFY": {
+   "A": {
+    "YES": 30
+   },
+   "B": {
+    "YES": 30
+   },
+   "C": {
+    "YES": 30
+   },
+   "D": {
+    "YES": 30
+   },
+   "E": {
+    "YES": 30
+   }
+  },
+  "DIVERGENCE": {
+   "A": {
+    "NO": 30
+   },
+   "B": {
+    "NO": 30
+   },
+   "C": {
+    "NO": 30
+   },
+   "D": {
+    "NO": 30
+   },
+   "E": {
+    "NO": 30
+   }
+  }
+ }
+}

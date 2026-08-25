@@ -1,0 +1,4 @@
+/report/manuscript/build/
+/report/manuscript/.cache/
+**/__pycache__/
+*.pyc

@@ -1,0 +1,15 @@
+{
+  "created": "2026-07-30 12:28:58",
+  "donor_file": "donor_life_v2.json",
+  "donor_sha256": "dfe17073ad161cb7a628216f6a3b79517a36cc8839b551c9fe7f1458a4b9bee1",
+  "donor_moments": 7,
+  "donor_memory_entries": 10,
+  "donor_state_file": "donor_state_v2.json",
+  "conditions": {
+    "A": "a131c8c64d8b5002a34f4420dca718f74a5acbebb923f7c44b2cbd8112d21023",
+    "B": "4db1e1e1dade98acc1e6d257dc514fbbcbb29e263be1a1024b28d5772e3cd570",
+    "C": "4febbebb22755a7d43c29f3910cefbf840d8b4544d856170396454ea7cb9a6c5",
+    "D": "6572d19f869de9acef1d32275f286a046ca989ade8893afbdbcfd6f485a5a068",
+    "E": "be14c9e98b81aafdbea6f80cf62b8d9c7994b82fa6ffd7f2fdfb7cd323943217"
+  }
+}
