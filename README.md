@@ -3,6 +3,8 @@
 **Autobiographical Memory Transplantation in an Artificial Agent**  
 Leo Ferres
 
+DOI: [10.5281/zenodo.22083182](https://doi.org/10.5281/zenodo.22083182)
+
 ## Automatic evidence
 
 Run from the package root:
@@ -68,3 +70,8 @@ The code is licensed MIT; see `LICENSE-CODE`. Code means
 `verify.sh`.
 
 Cite the package using `CITATION.cff`.
+
+The report is archived at Zenodo,
+<https://doi.org/10.5281/zenodo.22083182>. That deposit holds
+`report/paper.pdf` only. The evidence, the apparatus and the verification
+materials live in this repository.
